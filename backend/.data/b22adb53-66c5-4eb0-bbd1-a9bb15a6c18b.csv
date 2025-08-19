@@ -1,0 +1,501 @@
+Order ID,Date,Customer Name,Product,Category,Quantity,Unit Price,Total Price,Payment Method,Store Location
+1001,2025-08-21,Olivia Miller,Bluetooth Speaker,Accessories,2,100,200,UPI,New York
+1002,2025-08-04,John Doe,Tablet,Electronics,5,300,1500,Debit Card,Houston
+1003,2025-08-11,Michael Lee,Keyboard,Accessories,4,50,200,Credit Card,Phoenix
+1004,2025-08-21,Emma Taylor,Smartwatch,Accessories,2,200,400,Cash,Chicago
+1005,2025-08-14,Sophia Davis,Bluetooth Speaker,Accessories,2,100,200,PayPal,Phoenix
+1006,2025-08-29,Sophia Davis,Tablet,Electronics,5,300,1500,Credit Card,Houston
+1007,2025-08-17,John Doe,Printer,Electronics,4,250,1000,Debit Card,New York
+1008,2025-08-22,Eva Brown,Mouse,Accessories,1,30,30,Debit Card,New York
+1009,2025-08-09,Olivia Miller,Bluetooth Speaker,Accessories,2,100,200,Debit Card,Los Angeles
+1010,2025-08-08,Michael Lee,Mouse,Accessories,4,30,120,Credit Card,Los Angeles
+1011,2025-08-23,Daniel Moore,Camera,Electronics,1,600,600,UPI,Houston
+1012,2025-08-13,Sophia Davis,Printer,Electronics,2,250,500,Credit Card,Houston
+1013,2025-08-13,Olivia Miller,Camera,Electronics,5,600,3000,Debit Card,Chicago
+1014,2025-08-08,Sophia Davis,Bluetooth Speaker,Accessories,5,100,500,Debit Card,Phoenix
+1015,2025-08-09,Eva Brown,Smartwatch,Accessories,2,200,400,PayPal,New York
+1016,2025-08-24,James Wilson,Bluetooth Speaker,Accessories,4,100,400,PayPal,New York
+1017,2025-08-01,Emma Taylor,Keyboard,Accessories,4,50,200,Debit Card,Chicago
+1018,2025-08-17,John Doe,Bluetooth Speaker,Accessories,4,100,400,Cash,New York
+1019,2025-08-08,Michael Lee,Laptop,Electronics,4,1200,4800,Cash,Phoenix
+1020,2025-08-16,Olivia Miller,Keyboard,Accessories,1,50,50,PayPal,Phoenix
+1021,2025-08-28,Eva Brown,Smartwatch,Accessories,4,200,800,Cash,New York
+1022,2025-08-25,Michael Lee,Smartphone,Electronics,4,800,3200,Credit Card,Houston
+1023,2025-08-03,Olivia Miller,Smartphone,Electronics,3,800,2400,Debit Card,New York
+1024,2025-08-15,John Doe,Headphones,Accessories,1,150,150,Credit Card,New York
+1025,2025-08-09,Daniel Moore,Laptop,Electronics,3,1200,3600,Cash,New York
+1026,2025-08-23,James Wilson,Bluetooth Speaker,Accessories,2,100,200,Debit Card,Houston
+1027,2025-08-22,Bob Johnson,Smartphone,Electronics,4,800,3200,PayPal,Houston
+1028,2025-08-16,James Wilson,Mouse,Accessories,5,30,150,Debit Card,Phoenix
+1029,2025-08-08,James Wilson,Keyboard,Accessories,3,50,150,Debit Card,Los Angeles
+1030,2025-08-25,Daniel Moore,Mouse,Accessories,1,30,30,Credit Card,Los Angeles
+1031,2025-08-19,Michael Lee,Headphones,Accessories,5,150,750,Credit Card,Los Angeles
+1032,2025-08-13,John Doe,Bluetooth Speaker,Accessories,4,100,400,Cash,Los Angeles
+1033,2025-08-10,John Doe,Mouse,Accessories,2,30,60,Cash,Houston
+1034,2025-08-06,Michael Lee,Tablet,Electronics,3,300,900,UPI,Houston
+1035,2025-08-10,Olivia Miller,Smartwatch,Accessories,4,200,800,Debit Card,Phoenix
+1036,2025-08-04,John Doe,Headphones,Accessories,5,150,750,Debit Card,Houston
+1037,2025-08-11,Michael Lee,Camera,Electronics,4,600,2400,Cash,Los Angeles
+1038,2025-08-17,Emma Taylor,Smartphone,Electronics,1,800,800,UPI,Chicago
+1039,2025-08-25,Emma Taylor,Smartwatch,Accessories,3,200,600,Credit Card,New York
+1040,2025-08-14,Bob Johnson,Laptop,Electronics,4,1200,4800,PayPal,Phoenix
+1041,2025-08-19,James Wilson,Tablet,Electronics,3,300,900,PayPal,Phoenix
+1042,2025-08-20,Michael Lee,Bluetooth Speaker,Accessories,2,100,200,UPI,New York
+1043,2025-08-20,Daniel Moore,Printer,Electronics,4,250,1000,UPI,Los Angeles
+1044,2025-08-06,Sophia Davis,Bluetooth Speaker,Accessories,3,100,300,PayPal,New York
+1045,2025-08-20,Sophia Davis,Mouse,Accessories,4,30,120,Debit Card,Los Angeles
+1046,2025-08-24,Alice Smith,Headphones,Accessories,4,150,600,Debit Card,Houston
+1047,2025-08-05,Olivia Miller,Laptop,Electronics,2,1200,2400,Credit Card,Los Angeles
+1048,2025-08-25,Olivia Miller,Laptop,Electronics,4,1200,4800,Debit Card,New York
+1049,2025-08-10,Emma Taylor,Bluetooth Speaker,Accessories,1,100,100,PayPal,Phoenix
+1050,2025-08-02,Eva Brown,Camera,Electronics,3,600,1800,PayPal,Chicago
+1051,2025-08-28,Sophia Davis,Keyboard,Accessories,1,50,50,PayPal,Los Angeles
+1052,2025-08-07,Bob Johnson,Smartphone,Electronics,2,800,1600,Cash,Phoenix
+1053,2025-08-26,Michael Lee,Camera,Electronics,2,600,1200,UPI,Houston
+1054,2025-08-07,Alice Smith,Smartwatch,Accessories,2,200,400,UPI,Chicago
+1055,2025-08-18,James Wilson,Smartphone,Electronics,3,800,2400,Debit Card,Chicago
+1056,2025-08-03,Bob Johnson,Bluetooth Speaker,Accessories,3,100,300,Cash,Chicago
+1057,2025-08-08,Bob Johnson,Smartwatch,Accessories,3,200,600,Credit Card,New York
+1058,2025-08-13,Eva Brown,Smartphone,Electronics,5,800,4000,UPI,Houston
+1059,2025-08-28,Daniel Moore,Smartphone,Electronics,3,800,2400,Debit Card,New York
+1060,2025-08-03,Eva Brown,Tablet,Electronics,2,300,600,Debit Card,Houston
+1061,2025-08-21,John Doe,Smartphone,Electronics,2,800,1600,Credit Card,New York
+1062,2025-08-26,Eva Brown,Mouse,Accessories,5,30,150,UPI,Houston
+1063,2025-08-08,Emma Taylor,Smartphone,Electronics,2,800,1600,Credit Card,Los Angeles
+1064,2025-08-17,Olivia Miller,Camera,Electronics,3,600,1800,Cash,Los Angeles
+1065,2025-08-14,Olivia Miller,Mouse,Accessories,2,30,60,UPI,Chicago
+1066,2025-08-18,Michael Lee,Smartwatch,Accessories,2,200,400,Credit Card,New York
+1067,2025-08-12,Alice Smith,Laptop,Electronics,1,1200,1200,Cash,Los Angeles
+1068,2025-08-09,Emma Taylor,Headphones,Accessories,1,150,150,Credit Card,Los Angeles
+1069,2025-08-17,Emma Taylor,Laptop,Electronics,1,1200,1200,Debit Card,New York
+1070,2025-08-09,Daniel Moore,Keyboard,Accessories,2,50,100,Debit Card,Houston
+1071,2025-08-15,Alice Smith,Camera,Electronics,4,600,2400,PayPal,Chicago
+1072,2025-08-03,Eva Brown,Printer,Electronics,3,250,750,Credit Card,Los Angeles
+1073,2025-08-16,Daniel Moore,Mouse,Accessories,5,30,150,UPI,Phoenix
+1074,2025-08-05,Alice Smith,Smartwatch,Accessories,1,200,200,Credit Card,Phoenix
+1075,2025-08-02,Daniel Moore,Smartphone,Electronics,1,800,800,PayPal,New York
+1076,2025-08-26,James Wilson,Laptop,Electronics,5,1200,6000,Debit Card,New York
+1077,2025-08-22,Alice Smith,Smartphone,Electronics,3,800,2400,Credit Card,Phoenix
+1078,2025-08-19,John Doe,Camera,Electronics,2,600,1200,Debit Card,Los Angeles
+1079,2025-08-17,Daniel Moore,Headphones,Accessories,1,150,150,Debit Card,Chicago
+1080,2025-08-31,Daniel Moore,Headphones,Accessories,2,150,300,Debit Card,New York
+1081,2025-08-23,Daniel Moore,Keyboard,Accessories,5,50,250,Credit Card,Phoenix
+1082,2025-08-06,James Wilson,Laptop,Electronics,2,1200,2400,Credit Card,Los Angeles
+1083,2025-08-26,John Doe,Smartphone,Electronics,4,800,3200,Cash,New York
+1084,2025-08-27,Bob Johnson,Camera,Electronics,5,600,3000,PayPal,Chicago
+1085,2025-08-15,John Doe,Camera,Electronics,3,600,1800,Credit Card,Los Angeles
+1086,2025-08-05,Bob Johnson,Camera,Electronics,2,600,1200,Cash,New York
+1087,2025-08-19,Daniel Moore,Keyboard,Accessories,5,50,250,PayPal,Houston
+1088,2025-08-27,Eva Brown,Tablet,Electronics,5,300,1500,Credit Card,Chicago
+1089,2025-08-29,Emma Taylor,Camera,Electronics,4,600,2400,Credit Card,Los Angeles
+1090,2025-08-04,Daniel Moore,Mouse,Accessories,5,30,150,Cash,Chicago
+1091,2025-08-11,Michael Lee,Smartwatch,Accessories,3,200,600,Debit Card,Chicago
+1092,2025-08-15,Bob Johnson,Keyboard,Accessories,4,50,200,Cash,Phoenix
+1093,2025-08-16,James Wilson,Mouse,Accessories,1,30,30,Credit Card,Phoenix
+1094,2025-08-31,Emma Taylor,Bluetooth Speaker,Accessories,2,100,200,PayPal,Los Angeles
+1095,2025-08-21,Daniel Moore,Smartphone,Electronics,4,800,3200,Credit Card,New York
+1096,2025-08-23,Bob Johnson,Laptop,Electronics,5,1200,6000,UPI,Los Angeles
+1097,2025-08-17,Olivia Miller,Headphones,Accessories,3,150,450,Credit Card,Chicago
+1098,2025-08-01,Sophia Davis,Printer,Electronics,3,250,750,Credit Card,Chicago
+1099,2025-08-16,James Wilson,Headphones,Accessories,2,150,300,PayPal,New York
+1100,2025-08-27,Sophia Davis,Laptop,Electronics,3,1200,3600,Debit Card,Los Angeles
+1101,2025-08-31,Eva Brown,Smartwatch,Accessories,1,200,200,Cash,Phoenix
+1102,2025-08-01,Emma Taylor,Printer,Electronics,1,250,250,UPI,Los Angeles
+1103,2025-08-18,John Doe,Mouse,Accessories,5,30,150,UPI,Houston
+1104,2025-08-31,Sophia Davis,Smartwatch,Accessories,4,200,800,Credit Card,Chicago
+1105,2025-08-21,James Wilson,Mouse,Accessories,2,30,60,UPI,Chicago
+1106,2025-08-31,Alice Smith,Laptop,Electronics,5,1200,6000,PayPal,Houston
+1107,2025-08-01,Eva Brown,Keyboard,Accessories,1,50,50,Credit Card,Los Angeles
+1108,2025-08-31,Bob Johnson,Laptop,Electronics,2,1200,2400,Debit Card,New York
+1109,2025-08-06,Olivia Miller,Smartphone,Electronics,3,800,2400,Cash,Phoenix
+1110,2025-08-11,Bob Johnson,Laptop,Electronics,2,1200,2400,PayPal,Los Angeles
+1111,2025-08-09,Sophia Davis,Smartphone,Electronics,4,800,3200,PayPal,Phoenix
+1112,2025-08-17,James Wilson,Printer,Electronics,4,250,1000,PayPal,Los Angeles
+1113,2025-08-19,Alice Smith,Bluetooth Speaker,Accessories,3,100,300,Credit Card,New York
+1114,2025-08-20,Bob Johnson,Headphones,Accessories,2,150,300,Debit Card,Phoenix
+1115,2025-08-04,James Wilson,Smartphone,Electronics,2,800,1600,UPI,New York
+1116,2025-08-10,Sophia Davis,Smartwatch,Accessories,3,200,600,Cash,Phoenix
+1117,2025-08-11,Emma Taylor,Keyboard,Accessories,2,50,100,Credit Card,Phoenix
+1118,2025-08-19,Sophia Davis,Smartwatch,Accessories,4,200,800,PayPal,Los Angeles
+1119,2025-08-15,James Wilson,Laptop,Electronics,2,1200,2400,UPI,Houston
+1120,2025-08-10,Michael Lee,Headphones,Accessories,3,150,450,PayPal,Houston
+1121,2025-08-08,Olivia Miller,Printer,Electronics,5,250,1250,Cash,Houston
+1122,2025-08-09,Emma Taylor,Printer,Electronics,1,250,250,Credit Card,Houston
+1123,2025-08-16,Emma Taylor,Smartphone,Electronics,2,800,1600,UPI,New York
+1124,2025-08-26,Sophia Davis,Keyboard,Accessories,1,50,50,PayPal,Los Angeles
+1125,2025-08-23,Eva Brown,Laptop,Electronics,4,1200,4800,Credit Card,Los Angeles
+1126,2025-08-21,Bob Johnson,Printer,Electronics,4,250,1000,Debit Card,Los Angeles
+1127,2025-08-25,Michael Lee,Keyboard,Accessories,3,50,150,UPI,Los Angeles
+1128,2025-08-02,Emma Taylor,Bluetooth Speaker,Accessories,3,100,300,Credit Card,Phoenix
+1129,2025-08-01,Eva Brown,Keyboard,Accessories,4,50,200,Debit Card,Phoenix
+1130,2025-08-03,Olivia Miller,Headphones,Accessories,5,150,750,Debit Card,Phoenix
+1131,2025-08-23,James Wilson,Smartphone,Electronics,4,800,3200,Cash,New York
+1132,2025-08-22,Emma Taylor,Smartphone,Electronics,3,800,2400,Debit Card,Los Angeles
+1133,2025-08-29,Daniel Moore,Smartphone,Electronics,4,800,3200,UPI,Houston
+1134,2025-08-08,Alice Smith,Mouse,Accessories,2,30,60,Cash,New York
+1135,2025-08-02,Sophia Davis,Smartwatch,Accessories,1,200,200,Credit Card,Los Angeles
+1136,2025-08-12,James Wilson,Printer,Electronics,5,250,1250,Credit Card,New York
+1137,2025-08-31,James Wilson,Smartwatch,Accessories,5,200,1000,Credit Card,Phoenix
+1138,2025-08-31,Daniel Moore,Printer,Electronics,1,250,250,UPI,Los Angeles
+1139,2025-08-15,Emma Taylor,Smartwatch,Accessories,1,200,200,PayPal,Phoenix
+1140,2025-08-10,Emma Taylor,Bluetooth Speaker,Accessories,2,100,200,PayPal,Chicago
+1141,2025-08-29,Bob Johnson,Smartphone,Electronics,4,800,3200,UPI,Phoenix
+1142,2025-08-05,Bob Johnson,Tablet,Electronics,5,300,1500,Debit Card,Chicago
+1143,2025-08-16,Daniel Moore,Smartwatch,Accessories,2,200,400,UPI,Phoenix
+1144,2025-08-01,Olivia Miller,Camera,Electronics,1,600,600,Cash,Los Angeles
+1145,2025-08-24,James Wilson,Printer,Electronics,4,250,1000,Credit Card,Houston
+1146,2025-08-09,Sophia Davis,Keyboard,Accessories,3,50,150,UPI,New York
+1147,2025-08-07,Olivia Miller,Headphones,Accessories,2,150,300,Debit Card,Chicago
+1148,2025-08-13,James Wilson,Tablet,Electronics,2,300,600,Cash,Houston
+1149,2025-08-15,John Doe,Camera,Electronics,5,600,3000,PayPal,Los Angeles
+1150,2025-08-04,Olivia Miller,Mouse,Accessories,2,30,60,Credit Card,Chicago
+1151,2025-08-09,Bob Johnson,Smartphone,Electronics,3,800,2400,Debit Card,Los Angeles
+1152,2025-08-22,Eva Brown,Camera,Electronics,3,600,1800,PayPal,Chicago
+1153,2025-08-16,Olivia Miller,Headphones,Accessories,5,150,750,Credit Card,Phoenix
+1154,2025-08-30,Daniel Moore,Mouse,Accessories,2,30,60,Credit Card,Houston
+1155,2025-08-09,John Doe,Mouse,Accessories,4,30,120,Debit Card,New York
+1156,2025-08-15,Emma Taylor,Printer,Electronics,4,250,1000,Credit Card,New York
+1157,2025-08-02,James Wilson,Smartphone,Electronics,1,800,800,PayPal,Los Angeles
+1158,2025-08-20,Eva Brown,Smartwatch,Accessories,3,200,600,Credit Card,New York
+1159,2025-08-24,Eva Brown,Smartwatch,Accessories,4,200,800,UPI,Phoenix
+1160,2025-08-04,Bob Johnson,Smartwatch,Accessories,3,200,600,Credit Card,New York
+1161,2025-08-10,Olivia Miller,Camera,Electronics,2,600,1200,Cash,Phoenix
+1162,2025-08-14,Michael Lee,Tablet,Electronics,3,300,900,Credit Card,New York
+1163,2025-08-29,James Wilson,Tablet,Electronics,3,300,900,Cash,Phoenix
+1164,2025-08-06,Michael Lee,Headphones,Accessories,5,150,750,Debit Card,Houston
+1165,2025-08-16,Olivia Miller,Headphones,Accessories,5,150,750,UPI,Chicago
+1166,2025-08-11,Olivia Miller,Bluetooth Speaker,Accessories,1,100,100,Debit Card,Chicago
+1167,2025-08-16,Emma Taylor,Headphones,Accessories,5,150,750,Debit Card,Chicago
+1168,2025-08-09,Emma Taylor,Smartwatch,Accessories,4,200,800,PayPal,Phoenix
+1169,2025-08-14,John Doe,Mouse,Accessories,5,30,150,Debit Card,Chicago
+1170,2025-08-24,Olivia Miller,Smartphone,Electronics,3,800,2400,UPI,Houston
+1171,2025-08-23,Olivia Miller,Bluetooth Speaker,Accessories,2,100,200,Debit Card,New York
+1172,2025-08-10,James Wilson,Keyboard,Accessories,5,50,250,Cash,Phoenix
+1173,2025-08-04,Eva Brown,Printer,Electronics,2,250,500,Credit Card,Chicago
+1174,2025-08-30,Alice Smith,Tablet,Electronics,4,300,1200,PayPal,Chicago
+1175,2025-08-08,James Wilson,Mouse,Accessories,5,30,150,Cash,Los Angeles
+1176,2025-08-03,Michael Lee,Printer,Electronics,2,250,500,Debit Card,Houston
+1177,2025-08-05,Michael Lee,Mouse,Accessories,5,30,150,Cash,Chicago
+1178,2025-08-12,Emma Taylor,Bluetooth Speaker,Accessories,2,100,200,UPI,New York
+1179,2025-08-02,James Wilson,Keyboard,Accessories,4,50,200,Debit Card,Los Angeles
+1180,2025-08-25,Michael Lee,Mouse,Accessories,5,30,150,Credit Card,Phoenix
+1181,2025-08-12,Emma Taylor,Bluetooth Speaker,Accessories,3,100,300,Debit Card,New York
+1182,2025-08-21,Bob Johnson,Headphones,Accessories,3,150,450,Credit Card,Chicago
+1183,2025-08-29,Michael Lee,Tablet,Electronics,1,300,300,Cash,Los Angeles
+1184,2025-08-12,Emma Taylor,Bluetooth Speaker,Accessories,1,100,100,UPI,New York
+1185,2025-08-24,Olivia Miller,Smartphone,Electronics,4,800,3200,Cash,Chicago
+1186,2025-08-28,Sophia Davis,Keyboard,Accessories,3,50,150,Credit Card,Phoenix
+1187,2025-08-21,Sophia Davis,Smartwatch,Accessories,2,200,400,Credit Card,Chicago
+1188,2025-08-16,Daniel Moore,Mouse,Accessories,5,30,150,UPI,New York
+1189,2025-08-15,James Wilson,Camera,Electronics,5,600,3000,Credit Card,Houston
+1190,2025-08-13,Eva Brown,Printer,Electronics,2,250,500,Debit Card,New York
+1191,2025-08-24,Daniel Moore,Bluetooth Speaker,Accessories,4,100,400,Credit Card,Chicago
+1192,2025-08-16,Eva Brown,Laptop,Electronics,1,1200,1200,Debit Card,New York
+1193,2025-08-26,John Doe,Camera,Electronics,3,600,1800,UPI,Chicago
+1194,2025-08-26,Olivia Miller,Smartwatch,Accessories,2,200,400,Credit Card,Los Angeles
+1195,2025-08-30,Michael Lee,Bluetooth Speaker,Accessories,5,100,500,Credit Card,Los Angeles
+1196,2025-08-25,Emma Taylor,Printer,Electronics,4,250,1000,PayPal,Phoenix
+1197,2025-08-25,Emma Taylor,Tablet,Electronics,2,300,600,Credit Card,New York
+1198,2025-08-31,Sophia Davis,Printer,Electronics,4,250,1000,Debit Card,Phoenix
+1199,2025-08-29,John Doe,Keyboard,Accessories,3,50,150,UPI,New York
+1200,2025-08-29,Eva Brown,Mouse,Accessories,3,30,90,Credit Card,Phoenix
+1201,2025-08-12,Emma Taylor,Laptop,Electronics,1,1200,1200,PayPal,Chicago
+1202,2025-08-24,Michael Lee,Camera,Electronics,3,600,1800,PayPal,Phoenix
+1203,2025-08-07,John Doe,Camera,Electronics,3,600,1800,Credit Card,Chicago
+1204,2025-08-05,Eva Brown,Printer,Electronics,2,250,500,PayPal,Phoenix
+1205,2025-08-01,Michael Lee,Laptop,Electronics,4,1200,4800,UPI,Chicago
+1206,2025-08-22,Olivia Miller,Smartphone,Electronics,5,800,4000,PayPal,New York
+1207,2025-08-26,Sophia Davis,Bluetooth Speaker,Accessories,1,100,100,Cash,New York
+1208,2025-08-08,Olivia Miller,Laptop,Electronics,2,1200,2400,Credit Card,New York
+1209,2025-08-13,Michael Lee,Keyboard,Accessories,2,50,100,Cash,Chicago
+1210,2025-08-01,James Wilson,Printer,Electronics,1,250,250,Credit Card,Chicago
+1211,2025-08-25,Daniel Moore,Mouse,Accessories,4,30,120,PayPal,Houston
+1212,2025-08-23,Daniel Moore,Smartwatch,Accessories,4,200,800,Credit Card,Los Angeles
+1213,2025-08-25,Sophia Davis,Headphones,Accessories,3,150,450,Credit Card,Houston
+1214,2025-08-02,Alice Smith,Camera,Electronics,5,600,3000,UPI,Houston
+1215,2025-08-26,Olivia Miller,Tablet,Electronics,5,300,1500,Cash,New York
+1216,2025-08-06,Sophia Davis,Smartphone,Electronics,1,800,800,Credit Card,Los Angeles
+1217,2025-08-18,Alice Smith,Headphones,Accessories,1,150,150,UPI,New York
+1218,2025-08-19,Daniel Moore,Tablet,Electronics,4,300,1200,UPI,Chicago
+1219,2025-08-12,John Doe,Mouse,Accessories,3,30,90,Credit Card,Los Angeles
+1220,2025-08-19,James Wilson,Laptop,Electronics,4,1200,4800,PayPal,Phoenix
+1221,2025-08-19,Bob Johnson,Printer,Electronics,3,250,750,Credit Card,Houston
+1222,2025-08-17,James Wilson,Laptop,Electronics,1,1200,1200,Credit Card,Houston
+1223,2025-08-20,Sophia Davis,Camera,Electronics,1,600,600,PayPal,Houston
+1224,2025-08-13,Bob Johnson,Smartwatch,Accessories,5,200,1000,PayPal,Los Angeles
+1225,2025-08-21,Sophia Davis,Camera,Electronics,5,600,3000,Credit Card,Los Angeles
+1226,2025-08-04,John Doe,Camera,Electronics,4,600,2400,PayPal,New York
+1227,2025-08-09,James Wilson,Printer,Electronics,4,250,1000,Debit Card,Phoenix
+1228,2025-08-30,Olivia Miller,Tablet,Electronics,4,300,1200,Cash,Houston
+1229,2025-08-11,James Wilson,Keyboard,Accessories,4,50,200,PayPal,Chicago
+1230,2025-08-22,Bob Johnson,Keyboard,Accessories,2,50,100,Credit Card,Houston
+1231,2025-08-10,Michael Lee,Smartwatch,Accessories,3,200,600,Cash,New York
+1232,2025-08-31,Sophia Davis,Keyboard,Accessories,5,50,250,Credit Card,Phoenix
+1233,2025-08-27,Emma Taylor,Laptop,Electronics,2,1200,2400,Debit Card,Phoenix
+1234,2025-08-13,Sophia Davis,Headphones,Accessories,3,150,450,PayPal,Los Angeles
+1235,2025-08-16,Daniel Moore,Printer,Electronics,5,250,1250,Credit Card,Houston
+1236,2025-08-07,Daniel Moore,Smartwatch,Accessories,2,200,400,Credit Card,Houston
+1237,2025-08-04,James Wilson,Smartwatch,Accessories,3,200,600,PayPal,Phoenix
+1238,2025-08-11,Alice Smith,Mouse,Accessories,4,30,120,Credit Card,Houston
+1239,2025-08-30,John Doe,Smartwatch,Accessories,4,200,800,Credit Card,Chicago
+1240,2025-08-01,James Wilson,Mouse,Accessories,2,30,60,Credit Card,Chicago
+1241,2025-08-21,Sophia Davis,Camera,Electronics,5,600,3000,PayPal,New York
+1242,2025-08-19,Bob Johnson,Laptop,Electronics,4,1200,4800,PayPal,Chicago
+1243,2025-08-27,Eva Brown,Laptop,Electronics,5,1200,6000,UPI,Houston
+1244,2025-08-21,Olivia Miller,Bluetooth Speaker,Accessories,1,100,100,Cash,Los Angeles
+1245,2025-08-08,Sophia Davis,Laptop,Electronics,5,1200,6000,Debit Card,Chicago
+1246,2025-08-27,Daniel Moore,Laptop,Electronics,4,1200,4800,PayPal,Phoenix
+1247,2025-08-10,Olivia Miller,Keyboard,Accessories,1,50,50,Cash,Los Angeles
+1248,2025-08-08,Olivia Miller,Camera,Electronics,1,600,600,Credit Card,Chicago
+1249,2025-08-31,Sophia Davis,Camera,Electronics,2,600,1200,Credit Card,Houston
+1250,2025-08-14,Eva Brown,Tablet,Electronics,2,300,600,Cash,Los Angeles
+1251,2025-08-09,James Wilson,Printer,Electronics,1,250,250,Credit Card,Chicago
+1252,2025-08-02,Alice Smith,Keyboard,Accessories,5,50,250,Cash,Los Angeles
+1253,2025-08-18,Emma Taylor,Mouse,Accessories,2,30,60,PayPal,Chicago
+1254,2025-08-27,John Doe,Tablet,Electronics,5,300,1500,PayPal,Chicago
+1255,2025-08-14,Sophia Davis,Bluetooth Speaker,Accessories,2,100,200,Debit Card,Houston
+1256,2025-08-04,Daniel Moore,Smartphone,Electronics,3,800,2400,PayPal,New York
+1257,2025-08-01,Michael Lee,Tablet,Electronics,4,300,1200,Cash,Chicago
+1258,2025-08-05,Daniel Moore,Mouse,Accessories,2,30,60,PayPal,Phoenix
+1259,2025-08-15,Olivia Miller,Printer,Electronics,5,250,1250,UPI,Houston
+1260,2025-08-26,John Doe,Camera,Electronics,5,600,3000,PayPal,Chicago
+1261,2025-08-29,John Doe,Camera,Electronics,2,600,1200,PayPal,Los Angeles
+1262,2025-08-04,Emma Taylor,Laptop,Electronics,3,1200,3600,PayPal,Phoenix
+1263,2025-08-21,Emma Taylor,Smartwatch,Accessories,3,200,600,Debit Card,Phoenix
+1264,2025-08-30,Daniel Moore,Smartwatch,Accessories,5,200,1000,Debit Card,Phoenix
+1265,2025-08-14,James Wilson,Mouse,Accessories,5,30,150,UPI,New York
+1266,2025-08-26,Sophia Davis,Mouse,Accessories,4,30,120,Cash,Houston
+1267,2025-08-23,Sophia Davis,Smartwatch,Accessories,2,200,400,Debit Card,Phoenix
+1268,2025-08-10,Sophia Davis,Mouse,Accessories,2,30,60,UPI,Phoenix
+1269,2025-08-20,Sophia Davis,Printer,Electronics,5,250,1250,UPI,Houston
+1270,2025-08-17,Michael Lee,Headphones,Accessories,3,150,450,Credit Card,Phoenix
+1271,2025-08-11,Bob Johnson,Tablet,Electronics,3,300,900,Credit Card,Los Angeles
+1272,2025-08-11,Bob Johnson,Headphones,Accessories,1,150,150,Cash,Chicago
+1273,2025-08-09,Daniel Moore,Keyboard,Accessories,3,50,150,Credit Card,Phoenix
+1274,2025-08-28,Eva Brown,Camera,Electronics,3,600,1800,PayPal,Los Angeles
+1275,2025-08-09,Bob Johnson,Bluetooth Speaker,Accessories,1,100,100,UPI,Chicago
+1276,2025-08-28,Alice Smith,Bluetooth Speaker,Accessories,5,100,500,UPI,New York
+1277,2025-08-02,Olivia Miller,Mouse,Accessories,3,30,90,Debit Card,Los Angeles
+1278,2025-08-06,Bob Johnson,Bluetooth Speaker,Accessories,3,100,300,PayPal,Los Angeles
+1279,2025-08-06,James Wilson,Smartphone,Electronics,5,800,4000,Debit Card,Chicago
+1280,2025-08-21,Alice Smith,Printer,Electronics,4,250,1000,PayPal,New York
+1281,2025-08-29,Michael Lee,Smartwatch,Accessories,4,200,800,Debit Card,Houston
+1282,2025-08-13,Olivia Miller,Smartphone,Electronics,2,800,1600,UPI,Chicago
+1283,2025-08-23,James Wilson,Camera,Electronics,4,600,2400,Debit Card,Houston
+1284,2025-08-13,James Wilson,Bluetooth Speaker,Accessories,2,100,200,Cash,Houston
+1285,2025-08-18,James Wilson,Laptop,Electronics,2,1200,2400,Cash,Houston
+1286,2025-08-29,Eva Brown,Smartphone,Electronics,1,800,800,Credit Card,Los Angeles
+1287,2025-08-30,James Wilson,Laptop,Electronics,2,1200,2400,PayPal,Chicago
+1288,2025-08-06,Alice Smith,Keyboard,Accessories,5,50,250,Credit Card,Los Angeles
+1289,2025-08-04,Daniel Moore,Tablet,Electronics,1,300,300,UPI,Phoenix
+1290,2025-08-24,James Wilson,Printer,Electronics,3,250,750,Credit Card,Phoenix
+1291,2025-08-23,Daniel Moore,Laptop,Electronics,5,1200,6000,UPI,Phoenix
+1292,2025-08-04,Bob Johnson,Mouse,Accessories,1,30,30,Debit Card,Phoenix
+1293,2025-08-22,Olivia Miller,Keyboard,Accessories,1,50,50,PayPal,Los Angeles
+1294,2025-08-01,Eva Brown,Laptop,Electronics,4,1200,4800,Debit Card,Chicago
+1295,2025-08-18,James Wilson,Keyboard,Accessories,4,50,200,Debit Card,Houston
+1296,2025-08-06,Daniel Moore,Tablet,Electronics,2,300,600,Cash,New York
+1297,2025-08-07,Sophia Davis,Bluetooth Speaker,Accessories,2,100,200,Cash,Chicago
+1298,2025-08-06,Daniel Moore,Smartwatch,Accessories,4,200,800,PayPal,Chicago
+1299,2025-08-27,Sophia Davis,Laptop,Electronics,2,1200,2400,Debit Card,Phoenix
+1300,2025-08-17,James Wilson,Smartwatch,Accessories,5,200,1000,UPI,Houston
+1301,2025-08-26,Eva Brown,Tablet,Electronics,2,300,600,Debit Card,Houston
+1302,2025-08-01,Emma Taylor,Tablet,Electronics,2,300,600,Cash,New York
+1303,2025-08-09,Daniel Moore,Tablet,Electronics,3,300,900,Debit Card,New York
+1304,2025-08-31,Olivia Miller,Printer,Electronics,2,250,500,Debit Card,Phoenix
+1305,2025-08-21,John Doe,Printer,Electronics,5,250,1250,PayPal,Los Angeles
+1306,2025-08-02,Sophia Davis,Keyboard,Accessories,2,50,100,PayPal,Los Angeles
+1307,2025-08-06,Daniel Moore,Printer,Electronics,4,250,1000,PayPal,Phoenix
+1308,2025-08-22,Daniel Moore,Mouse,Accessories,3,30,90,Credit Card,Houston
+1309,2025-08-06,Sophia Davis,Tablet,Electronics,4,300,1200,PayPal,Los Angeles
+1310,2025-08-21,Eva Brown,Headphones,Accessories,4,150,600,Cash,New York
+1311,2025-08-28,Alice Smith,Mouse,Accessories,2,30,60,Debit Card,Los Angeles
+1312,2025-08-18,Alice Smith,Bluetooth Speaker,Accessories,3,100,300,PayPal,Chicago
+1313,2025-08-27,Bob Johnson,Printer,Electronics,2,250,500,Debit Card,Los Angeles
+1314,2025-08-06,John Doe,Bluetooth Speaker,Accessories,1,100,100,Debit Card,Chicago
+1315,2025-08-30,Eva Brown,Keyboard,Accessories,3,50,150,Cash,Chicago
+1316,2025-08-07,Olivia Miller,Headphones,Accessories,1,150,150,PayPal,Houston
+1317,2025-08-30,James Wilson,Headphones,Accessories,5,150,750,Cash,Houston
+1318,2025-08-24,Sophia Davis,Tablet,Electronics,1,300,300,UPI,Los Angeles
+1319,2025-08-08,Daniel Moore,Printer,Electronics,4,250,1000,UPI,Houston
+1320,2025-08-29,James Wilson,Keyboard,Accessories,3,50,150,PayPal,New York
+1321,2025-08-03,Michael Lee,Smartwatch,Accessories,3,200,600,Credit Card,Houston
+1322,2025-08-06,Daniel Moore,Bluetooth Speaker,Accessories,5,100,500,PayPal,Los Angeles
+1323,2025-08-27,Michael Lee,Mouse,Accessories,4,30,120,PayPal,Phoenix
+1324,2025-08-03,Sophia Davis,Mouse,Accessories,4,30,120,UPI,Los Angeles
+1325,2025-08-02,Olivia Miller,Mouse,Accessories,5,30,150,UPI,Phoenix
+1326,2025-08-31,John Doe,Camera,Electronics,3,600,1800,Debit Card,Houston
+1327,2025-08-30,James Wilson,Bluetooth Speaker,Accessories,2,100,200,PayPal,Chicago
+1328,2025-08-29,Alice Smith,Laptop,Electronics,4,1200,4800,PayPal,Chicago
+1329,2025-08-22,Sophia Davis,Printer,Electronics,4,250,1000,Debit Card,Chicago
+1330,2025-08-29,John Doe,Camera,Electronics,4,600,2400,Cash,Phoenix
+1331,2025-08-28,Daniel Moore,Printer,Electronics,5,250,1250,UPI,Chicago
+1332,2025-08-22,John Doe,Keyboard,Accessories,5,50,250,PayPal,Los Angeles
+1333,2025-08-10,Sophia Davis,Mouse,Accessories,2,30,60,Credit Card,Houston
+1334,2025-08-12,Olivia Miller,Bluetooth Speaker,Accessories,5,100,500,Credit Card,Los Angeles
+1335,2025-08-10,Olivia Miller,Smartphone,Electronics,1,800,800,Credit Card,Los Angeles
+1336,2025-08-20,John Doe,Smartphone,Electronics,1,800,800,Debit Card,Phoenix
+1337,2025-08-09,Daniel Moore,Headphones,Accessories,3,150,450,UPI,Houston
+1338,2025-08-27,Sophia Davis,Laptop,Electronics,3,1200,3600,UPI,New York
+1339,2025-08-21,James Wilson,Mouse,Accessories,1,30,30,Credit Card,Houston
+1340,2025-08-17,Emma Taylor,Mouse,Accessories,4,30,120,PayPal,Phoenix
+1341,2025-08-05,Sophia Davis,Laptop,Electronics,1,1200,1200,Credit Card,Phoenix
+1342,2025-08-30,Sophia Davis,Mouse,Accessories,4,30,120,Cash,New York
+1343,2025-08-08,Eva Brown,Printer,Electronics,1,250,250,Debit Card,Phoenix
+1344,2025-08-11,James Wilson,Laptop,Electronics,4,1200,4800,Debit Card,New York
+1345,2025-08-07,James Wilson,Mouse,Accessories,4,30,120,Debit Card,Los Angeles
+1346,2025-08-16,Alice Smith,Mouse,Accessories,5,30,150,PayPal,Phoenix
+1347,2025-08-02,Sophia Davis,Smartphone,Electronics,4,800,3200,Credit Card,Houston
+1348,2025-08-29,John Doe,Mouse,Accessories,1,30,30,Cash,Phoenix
+1349,2025-08-26,Emma Taylor,Keyboard,Accessories,4,50,200,Cash,New York
+1350,2025-08-04,Alice Smith,Mouse,Accessories,3,30,90,Debit Card,Chicago
+1351,2025-08-14,Olivia Miller,Tablet,Electronics,1,300,300,Cash,New York
+1352,2025-08-22,James Wilson,Camera,Electronics,4,600,2400,Credit Card,Chicago
+1353,2025-08-26,Michael Lee,Keyboard,Accessories,3,50,150,PayPal,Chicago
+1354,2025-08-21,Sophia Davis,Smartphone,Electronics,1,800,800,Credit Card,Chicago
+1355,2025-08-10,Daniel Moore,Laptop,Electronics,5,1200,6000,UPI,New York
+1356,2025-08-01,John Doe,Mouse,Accessories,2,30,60,Cash,New York
+1357,2025-08-20,Eva Brown,Keyboard,Accessories,4,50,200,PayPal,Houston
+1358,2025-08-28,James Wilson,Laptop,Electronics,4,1200,4800,Debit Card,Houston
+1359,2025-08-14,John Doe,Keyboard,Accessories,4,50,200,PayPal,New York
+1360,2025-08-30,John Doe,Laptop,Electronics,1,1200,1200,PayPal,Phoenix
+1361,2025-08-31,Eva Brown,Mouse,Accessories,3,30,90,Credit Card,Houston
+1362,2025-08-11,Emma Taylor,Headphones,Accessories,1,150,150,UPI,Los Angeles
+1363,2025-08-16,Michael Lee,Keyboard,Accessories,5,50,250,PayPal,Chicago
+1364,2025-08-10,Eva Brown,Keyboard,Accessories,4,50,200,Debit Card,New York
+1365,2025-08-08,Bob Johnson,Tablet,Electronics,1,300,300,Debit Card,Los Angeles
+1366,2025-08-27,Olivia Miller,Keyboard,Accessories,3,50,150,Debit Card,Phoenix
+1367,2025-08-08,Emma Taylor,Mouse,Accessories,3,30,90,Credit Card,Los Angeles
+1368,2025-08-02,Eva Brown,Printer,Electronics,5,250,1250,PayPal,Los Angeles
+1369,2025-08-25,Alice Smith,Bluetooth Speaker,Accessories,5,100,500,Credit Card,Chicago
+1370,2025-08-17,John Doe,Keyboard,Accessories,4,50,200,PayPal,Phoenix
+1371,2025-08-25,Michael Lee,Camera,Electronics,5,600,3000,UPI,Houston
+1372,2025-08-04,Michael Lee,Bluetooth Speaker,Accessories,2,100,200,UPI,New York
+1373,2025-08-14,Michael Lee,Keyboard,Accessories,1,50,50,Credit Card,Phoenix
+1374,2025-08-31,Sophia Davis,Keyboard,Accessories,4,50,200,PayPal,New York
+1375,2025-08-21,Alice Smith,Smartphone,Electronics,3,800,2400,PayPal,Los Angeles
+1376,2025-08-30,Bob Johnson,Mouse,Accessories,1,30,30,PayPal,Houston
+1377,2025-08-05,Sophia Davis,Camera,Electronics,3,600,1800,PayPal,Chicago
+1378,2025-08-23,Alice Smith,Headphones,Accessories,3,150,450,Cash,New York
+1379,2025-08-01,Bob Johnson,Smartphone,Electronics,4,800,3200,UPI,Los Angeles
+1380,2025-08-10,Eva Brown,Mouse,Accessories,4,30,120,Cash,Chicago
+1381,2025-08-13,Alice Smith,Keyboard,Accessories,3,50,150,Debit Card,Chicago
+1382,2025-08-28,Daniel Moore,Smartwatch,Accessories,5,200,1000,PayPal,Chicago
+1383,2025-08-14,Alice Smith,Keyboard,Accessories,4,50,200,PayPal,Houston
+1384,2025-08-14,Eva Brown,Keyboard,Accessories,2,50,100,UPI,Los Angeles
+1385,2025-08-20,Emma Taylor,Keyboard,Accessories,1,50,50,PayPal,Chicago
+1386,2025-08-04,Emma Taylor,Headphones,Accessories,1,150,150,PayPal,Los Angeles
+1387,2025-08-31,Emma Taylor,Printer,Electronics,5,250,1250,PayPal,Phoenix
+1388,2025-08-29,Daniel Moore,Mouse,Accessories,1,30,30,Credit Card,Los Angeles
+1389,2025-08-08,Daniel Moore,Camera,Electronics,5,600,3000,UPI,Houston
+1390,2025-08-10,Eva Brown,Smartwatch,Accessories,4,200,800,UPI,Phoenix
+1391,2025-08-28,Sophia Davis,Laptop,Electronics,1,1200,1200,UPI,Los Angeles
+1392,2025-08-21,Sophia Davis,Printer,Electronics,3,250,750,Debit Card,Phoenix
+1393,2025-08-23,Eva Brown,Mouse,Accessories,2,30,60,Debit Card,Chicago
+1394,2025-08-28,Michael Lee,Tablet,Electronics,1,300,300,Credit Card,Houston
+1395,2025-08-26,John Doe,Mouse,Accessories,2,30,60,UPI,Los Angeles
+1396,2025-08-02,Olivia Miller,Mouse,Accessories,2,30,60,Cash,Los Angeles
+1397,2025-08-30,James Wilson,Printer,Electronics,3,250,750,Debit Card,Houston
+1398,2025-08-07,Emma Taylor,Smartphone,Electronics,4,800,3200,Credit Card,Chicago
+1399,2025-08-13,James Wilson,Smartphone,Electronics,4,800,3200,Credit Card,Phoenix
+1400,2025-08-15,Emma Taylor,Bluetooth Speaker,Accessories,5,100,500,Credit Card,Phoenix
+1401,2025-08-01,John Doe,Mouse,Accessories,1,30,30,Credit Card,Phoenix
+1402,2025-08-24,Michael Lee,Tablet,Electronics,1,300,300,Credit Card,Phoenix
+1403,2025-08-10,Daniel Moore,Smartphone,Electronics,5,800,4000,Cash,Los Angeles
+1404,2025-08-29,Eva Brown,Tablet,Electronics,2,300,600,PayPal,Chicago
+1405,2025-08-19,Emma Taylor,Printer,Electronics,5,250,1250,UPI,Phoenix
+1406,2025-08-19,Alice Smith,Keyboard,Accessories,4,50,200,Debit Card,Houston
+1407,2025-08-23,Daniel Moore,Mouse,Accessories,5,30,150,UPI,Houston
+1408,2025-08-06,Daniel Moore,Bluetooth Speaker,Accessories,1,100,100,UPI,Phoenix
+1409,2025-08-13,Eva Brown,Smartwatch,Accessories,5,200,1000,Cash,New York
+1410,2025-08-07,James Wilson,Bluetooth Speaker,Accessories,3,100,300,Debit Card,Phoenix
+1411,2025-08-27,John Doe,Laptop,Electronics,4,1200,4800,Cash,Los Angeles
+1412,2025-08-24,Sophia Davis,Tablet,Electronics,5,300,1500,Credit Card,Houston
+1413,2025-08-04,Daniel Moore,Smartphone,Electronics,5,800,4000,Debit Card,Los Angeles
+1414,2025-08-02,Sophia Davis,Smartphone,Electronics,1,800,800,Credit Card,New York
+1415,2025-08-02,James Wilson,Mouse,Accessories,2,30,60,Credit Card,Chicago
+1416,2025-08-19,Sophia Davis,Laptop,Electronics,1,1200,1200,Cash,Phoenix
+1417,2025-08-28,Alice Smith,Laptop,Electronics,5,1200,6000,UPI,Houston
+1418,2025-08-06,Daniel Moore,Camera,Electronics,5,600,3000,PayPal,Chicago
+1419,2025-08-08,Emma Taylor,Mouse,Accessories,5,30,150,UPI,Phoenix
+1420,2025-08-04,Emma Taylor,Keyboard,Accessories,5,50,250,PayPal,Phoenix
+1421,2025-08-31,Eva Brown,Bluetooth Speaker,Accessories,1,100,100,Debit Card,Los Angeles
+1422,2025-08-03,Olivia Miller,Smartwatch,Accessories,4,200,800,Credit Card,Los Angeles
+1423,2025-08-08,Bob Johnson,Camera,Electronics,5,600,3000,Cash,Phoenix
+1424,2025-08-28,Emma Taylor,Mouse,Accessories,2,30,60,Credit Card,Los Angeles
+1425,2025-08-22,Olivia Miller,Printer,Electronics,5,250,1250,Debit Card,New York
+1426,2025-08-21,Olivia Miller,Camera,Electronics,4,600,2400,Cash,New York
+1427,2025-08-05,John Doe,Camera,Electronics,4,600,2400,Debit Card,New York
+1428,2025-08-31,Alice Smith,Bluetooth Speaker,Accessories,2,100,200,Cash,Los Angeles
+1429,2025-08-28,Bob Johnson,Tablet,Electronics,4,300,1200,UPI,Houston
+1430,2025-08-22,Sophia Davis,Laptop,Electronics,5,1200,6000,Debit Card,New York
+1431,2025-08-19,Sophia Davis,Tablet,Electronics,1,300,300,Credit Card,Chicago
+1432,2025-08-28,John Doe,Smartwatch,Accessories,3,200,600,Cash,Houston
+1433,2025-08-31,Olivia Miller,Laptop,Electronics,1,1200,1200,UPI,New York
+1434,2025-08-05,James Wilson,Keyboard,Accessories,5,50,250,Cash,New York
+1435,2025-08-28,Olivia Miller,Laptop,Electronics,4,1200,4800,Credit Card,Los Angeles
+1436,2025-08-29,Emma Taylor,Headphones,Accessories,1,150,150,PayPal,New York
+1437,2025-08-06,Olivia Miller,Tablet,Electronics,4,300,1200,UPI,New York
+1438,2025-08-05,James Wilson,Tablet,Electronics,1,300,300,Debit Card,Phoenix
+1439,2025-08-06,Sophia Davis,Mouse,Accessories,1,30,30,Credit Card,New York
+1440,2025-08-28,Sophia Davis,Smartwatch,Accessories,3,200,600,UPI,Houston
+1441,2025-08-24,John Doe,Laptop,Electronics,4,1200,4800,UPI,Phoenix
+1442,2025-08-10,Eva Brown,Camera,Electronics,5,600,3000,UPI,Phoenix
+1443,2025-08-02,Michael Lee,Headphones,Accessories,5,150,750,UPI,Los Angeles
+1444,2025-08-17,Bob Johnson,Smartphone,Electronics,4,800,3200,Cash,New York
+1445,2025-08-13,Bob Johnson,Mouse,Accessories,2,30,60,Debit Card,Phoenix
+1446,2025-08-12,Michael Lee,Smartphone,Electronics,3,800,2400,Debit Card,New York
+1447,2025-08-07,Alice Smith,Headphones,Accessories,5,150,750,PayPal,Chicago
+1448,2025-08-08,John Doe,Printer,Electronics,4,250,1000,Cash,Chicago
+1449,2025-08-19,Bob Johnson,Smartphone,Electronics,1,800,800,Credit Card,Chicago
+1450,2025-08-19,Sophia Davis,Mouse,Accessories,4,30,120,Credit Card,Los Angeles
+1451,2025-08-01,Sophia Davis,Keyboard,Accessories,1,50,50,PayPal,Houston
+1452,2025-08-31,Olivia Miller,Smartwatch,Accessories,5,200,1000,PayPal,New York
+1453,2025-08-18,Alice Smith,Smartphone,Electronics,5,800,4000,PayPal,Los Angeles
+1454,2025-08-18,Alice Smith,Headphones,Accessories,1,150,150,UPI,Phoenix
+1455,2025-08-02,Olivia Miller,Headphones,Accessories,1,150,150,UPI,New York
+1456,2025-08-22,Sophia Davis,Camera,Electronics,2,600,1200,PayPal,Houston
+1457,2025-08-05,Sophia Davis,Tablet,Electronics,4,300,1200,UPI,Los Angeles
+1458,2025-08-06,Bob Johnson,Mouse,Accessories,4,30,120,Cash,New York
+1459,2025-08-06,John Doe,Mouse,Accessories,1,30,30,PayPal,Los Angeles
+1460,2025-08-21,Eva Brown,Smartphone,Electronics,3,800,2400,Cash,Houston
+1461,2025-08-10,Olivia Miller,Headphones,Accessories,1,150,150,Cash,Phoenix
+1462,2025-08-23,Alice Smith,Printer,Electronics,4,250,1000,Credit Card,Chicago
+1463,2025-08-26,Alice Smith,Bluetooth Speaker,Accessories,1,100,100,PayPal,Los Angeles
+1464,2025-08-11,James Wilson,Bluetooth Speaker,Accessories,1,100,100,Credit Card,Phoenix
+1465,2025-08-03,Eva Brown,Camera,Electronics,5,600,3000,PayPal,Phoenix
+1466,2025-08-27,Emma Taylor,Bluetooth Speaker,Accessories,3,100,300,UPI,Houston
+1467,2025-08-08,Emma Taylor,Printer,Electronics,1,250,250,UPI,Phoenix
+1468,2025-08-01,Sophia Davis,Laptop,Electronics,2,1200,2400,UPI,Houston
+1469,2025-08-15,Daniel Moore,Smartphone,Electronics,4,800,3200,Cash,Houston
+1470,2025-08-17,John Doe,Smartphone,Electronics,2,800,1600,PayPal,Phoenix
+1471,2025-08-20,Michael Lee,Camera,Electronics,1,600,600,UPI,Phoenix
+1472,2025-08-21,Alice Smith,Smartphone,Electronics,2,800,1600,Debit Card,Chicago
+1473,2025-08-22,Daniel Moore,Keyboard,Accessories,1,50,50,Credit Card,Houston
+1474,2025-08-25,Michael Lee,Keyboard,Accessories,2,50,100,PayPal,New York
+1475,2025-08-04,Michael Lee,Mouse,Accessories,1,30,30,PayPal,New York
+1476,2025-08-16,Michael Lee,Laptop,Electronics,4,1200,4800,Cash,Chicago
+1477,2025-08-18,Bob Johnson,Printer,Electronics,3,250,750,Debit Card,Phoenix
+1478,2025-08-03,Bob Johnson,Smartphone,Electronics,1,800,800,Debit Card,Phoenix
+1479,2025-08-10,Eva Brown,Mouse,Accessories,2,30,60,Debit Card,New York
+1480,2025-08-17,James Wilson,Keyboard,Accessories,2,50,100,Credit Card,Chicago
+1481,2025-08-11,Michael Lee,Smartphone,Electronics,1,800,800,Debit Card,Houston
+1482,2025-08-27,Michael Lee,Keyboard,Accessories,1,50,50,PayPal,Houston
+1483,2025-08-31,Michael Lee,Keyboard,Accessories,3,50,150,UPI,Los Angeles
+1484,2025-08-13,James Wilson,Smartwatch,Accessories,2,200,400,UPI,Phoenix
+1485,2025-08-04,Eva Brown,Printer,Electronics,2,250,500,Debit Card,Houston
+1486,2025-08-27,Alice Smith,Smartwatch,Accessories,5,200,1000,Cash,Houston
+1487,2025-08-29,James Wilson,Mouse,Accessories,4,30,120,Debit Card,Chicago
+1488,2025-08-11,Michael Lee,Smartwatch,Accessories,2,200,400,PayPal,Houston
+1489,2025-08-18,Daniel Moore,Printer,Electronics,2,250,500,Cash,Chicago
+1490,2025-08-15,Sophia Davis,Keyboard,Accessories,1,50,50,Credit Card,Phoenix
+1491,2025-08-27,Michael Lee,Mouse,Accessories,5,30,150,UPI,New York
+1492,2025-08-14,Olivia Miller,Laptop,Electronics,3,1200,3600,PayPal,New York
+1493,2025-08-24,Daniel Moore,Smartwatch,Accessories,1,200,200,UPI,New York
+1494,2025-08-21,Daniel Moore,Smartwatch,Accessories,2,200,400,Cash,Houston
+1495,2025-08-04,John Doe,Laptop,Electronics,4,1200,4800,Debit Card,New York
+1496,2025-08-04,Michael Lee,Headphones,Accessories,4,150,600,UPI,Los Angeles
+1497,2025-08-06,Eva Brown,Headphones,Accessories,1,150,150,Credit Card,Los Angeles
+1498,2025-08-12,Bob Johnson,Smartwatch,Accessories,1,200,200,PayPal,Los Angeles
+1499,2025-08-23,Eva Brown,Headphones,Accessories,4,150,600,UPI,Chicago
+1500,2025-08-06,James Wilson,Laptop,Electronics,1,1200,1200,UPI,Los Angeles
