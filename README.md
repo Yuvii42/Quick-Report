@@ -84,8 +84,3 @@ frontend/
       Export.jsx
 ```
 
-Notes
-
-- This is a developer-friendly MVP. The backend stores uploaded datasets in memory with a temporary ID and saves a CSV copy in `backend/.data`. For production, use persistent storage and auth.
-
-
